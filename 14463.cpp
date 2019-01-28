@@ -11,7 +11,6 @@ using namespace std;
 int s[50001], seg[100001*4];
 int seq, N;
 int res = 0;
-set<pair<int, int>> st;
 
 void update(int node, int x, int y, int pos, int val) {
 	if (x > pos || pos > y) return;
