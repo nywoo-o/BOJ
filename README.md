@@ -1,2 +1,2 @@
 # BOJ
-# https://nywoo19.blog.me/
+https://nywoo19.blog.me/
